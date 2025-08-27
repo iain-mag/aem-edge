@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: [https://main--{repo}--{owner}.hlx.page/](https://main--aem-edge--iain-mag.aem.page/)
-- Live: [https://main--{repo}--{owner}.hlx.live/](https://main--aem-edge--iain-mag.aem.live/)
+- Preview: https://main--aem-edge--iain-mag.aem.page/
+- Live: https://main--aem-edge--iain-mag.aem.live/
 
 ## Installation
 
